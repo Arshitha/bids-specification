@@ -1,0 +1,4 @@
+title: "BIDS Specification v1.6"
+logo: images/logo.png
+execute:
+  execute_notebooks: "off"

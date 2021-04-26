@@ -1,0 +1,38 @@
+file: index
+sections:
+- file: 01-introduction
+- file: 02-common-principles
+- file: 03-modality-agnostic-files
+- file: 04-modality-specific-files/01-magnetic-resonance-imaging-data
+  sections:
+  - file: 04-modality-specific-files/02-magnetoencephalography
+  - file: 04-modality-specific-files/03-electroencephalography
+  - file: 04-modality-specific-files/04-intracranial-electroencephalography
+  - file: 04-modality-specific-files/05-task-events
+  - file: 04-modality-specific-files/06-physiological-and-other-continuous-recordings
+  - file: 04-modality-specific-files/07-behavioral-experiments
+  - file: 04-modality-specific-files/08-genetic-descriptor
+  - file: 04-modality-specific-files/09-positron-emission-tomography
+- file: 05-derivatives/01-introduction
+  sections:
+  - file: 05-derivatives/02-common-data-types
+  - file: 05-derivatives/03-imaging
+- file: 06-longitudinal-and-multi-site-studies
+- file: 07-extensions
+- file: 99-appendices/01-contributors
+  sections:
+  - file: 99-appendices/02-licenses
+  - file: 99-appendices/03-hed
+  - file: 99-appendices/04-entity-table
+  - file: 99-appendices/05-units
+  - file: 99-appendices/06-meg-file-formats
+  - file: 99-appendices/07-meg-systems
+  - file: 99-appendices/08-coordinate-systems
+  - file: 99-appendices/09-entities
+  - file: 99-appendices/10-file-collections
+  - file: 99-appendices/11-qmri
+  - file: 99-appendices/12-arterial-spin-labeling
+  - file: 99-appendices/13-cross-modality-correspondence
+- file: CHANGES
+- file: pregh-changes
+- file: schema/README
